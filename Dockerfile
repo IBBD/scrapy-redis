@@ -1,8 +1,8 @@
 
 #
-# https://github.com/IBBD/ubuntu
+# https://github.com/IBBD/scrapy-redis
 #
-# sudo docker build -t ibbd/ubuntu ./
+# sudo docker build -t ibbd/scrapy-redis ./
 #
 
 # Pull base image.
